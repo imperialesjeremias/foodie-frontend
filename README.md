@@ -1,3 +1,4 @@
+[En desarrollo]
 # Proyecto Final Fundación Pescar - Santander - Documentación
 Este proyecto contiene el front end para usar la aplicación de Foodie utilizando
 ReactJs y Redux para el manejo de estados
