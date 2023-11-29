@@ -1,0 +1,21 @@
+.background-Cafeteria {
+    background-image: url('../../public/categorias/cafeteria.jpg');
+    background-size: cover;
+    
+}
+
+.background-Comida {
+    background-image: url('../../public/categorias/comidarapida.jpg'); 
+    background-size: cover;
+}
+
+.background-Gourmet {
+    background-image: url('../../public/categorias/gourmet.jpg');
+    background-size: cover;
+}
+
+.background-Pastas {
+    background-image: url('../../public/categorias/pastas.jpg');
+    background-size: cover;
+}
+

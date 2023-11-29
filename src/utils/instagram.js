@@ -1,0 +1,101 @@
+import { emprendimiento } from "./fotos"
+
+export const instagram = {
+    emprendimiento1: {
+        img: emprendimiento.img1,
+        name: 'celiaco.com.ar',
+        followers: '40,7 mil',
+        post: '399',
+        description: 'Comunidad #sinTACC #glutenFree. Compartimos Información - Recetas - Reseña y presentación de Productos',
+        url: 'https://www.instagram.com/celiaco.com.ar/?hl=es'
+    },
+    emprendimiento2: {
+        img: emprendimiento.img2,
+        name: 'soyglutenfree',
+        followers: '122 mil',
+        post: '562',
+        description: 'Somos Nati y Eva 🤜🏻♥️🤛🏻 Hacemos recetas fáciles y libres de gluten. Pensadas para celíacos y ricas para todos!!',
+        url: 'https://www.instagram.com/soyglutenfree/?hl=es-la'
+    },
+    emprendimiento3: {
+        img: emprendimiento.img3,
+        name: 'RECETAS DE COCINA SIN GLUTEN',
+        followers: '69 mil',
+        post: '394',
+        description: '⚡️ recetas + tips nutricionales. ⚡️ creamos contenido para marcas. Clari, diseñadora @clarivinuesa. Vicky, lic. en nutrición @vicky_vinu',
+        url: 'https://www.instagram.com/cocinaglutenfree.ok/',
+    },
+    emprendimiento4: {
+        img: emprendimiento.img4,
+        name: 'aletemporini',
+        followers: '232 mil',
+        post: '1806',
+        description: 'Bienvenidos a mi aventura #SinGluten. Recetas fáciles, ricas y saludables',
+        url: 'https://www.instagram.com/aletemporini/',
+    },
+    emprendimiento5: {
+        img: emprendimiento.img5,
+        name: 'disfrutandosingluten',
+        followers: '41,4 mil',
+        post: '2947',
+        description: '📍𝘾𝙚𝙡𝙞𝙖𝙘𝙖📍𝙑𝙞𝙖𝙟𝙚𝙧𝙖 📍𝙍𝙚𝙥𝙤𝙨𝙩𝙚𝙧𝙖. 🍪 Recetas sin gluten. ✈️ Viajes sin gluten.Info sobre celiaquía',
+        url: 'https://www.instagram.com/disfrutandosingluten/?hl=es',
+    },
+    emprendimiento6: {
+        img: emprendimiento.img6,
+        name: 'Restaurantes & Cafés Sin Tacc',
+        followers: '2414',
+        post: '69',
+        description: '🙋🏽Soy Milu Borda, intolerante al gluten. Dieta 100% libre de gluten. ☝🏽Guía de Restaurantes, Cafeterías, delivery, donde comprar #SinGluten ✨',
+        url: 'https://www.instagram.com/opcionsingluten/?hl=es',
+    },
+    emprendimiento7: {
+        img: emprendimiento.img7,
+        name: 'comiendoafuera.sintacc',
+        followers: '2583',
+        post: '63',
+        description: 'Soy celiaca y les voy a ir contando mi experiencia comiendo sin gluten en Buenos Aires, Argentina. Lugares y opciones encontradas...',
+        url: 'https://www.instagram.com/comiendoafuera.sintacc/',
+    },
+    emprendimiento8: {
+        img: emprendimiento.img8,
+        name: 'lifesintacc',
+        followers: '17,1 mil',
+        post: '97',
+        description: 'Recorro lugares con opciones GLUTEN FREE 🌾',
+        url: 'https://www.instagram.com/lifesintacc/',
+    },
+    emprendimiento9: {
+        img: emprendimiento.img9,
+        name: 'cucina paradisosenzaglutine',
+        followers: '44,7',
+        post: '106',
+        description: 'Primo ristorante in Latinoamérica 100% Italiano con menu completamente senza glutine. AREVALO 1538 CABA. ARGENTINA. Whapp: 1125162059. LU a DO 9 a 24 hs',
+        url: 'https://www.instagram.com/cucinaparadisosenzaglutine/?hl=es',
+    },
+    emprendimiento10: {
+        img: emprendimiento.img10,
+        name: 'piaceresintacc',
+        followers: '12,2 mil',
+        post: '322',
+        description: '📍Ramos Mejía, Av de mayo 838. 📍Ramos Mejía, Vicente López 90.         📍Palomar, Ing Brian 1478. 📍San Justo, Almafuerte 2962. 📍Villa del parque, Cuenca 2581',
+        url: 'https://www.instagram.com/piaceresintacc/?hl=es',
+    },
+    emprendimiento11: {
+        img: emprendimiento.img11,
+        name: 'valesingluten',
+        followers: '7293',
+        post: '65',
+        description: '🌾Todo sobre celiaquía. 📍 Te ayudo a encontrar lugares & productos APTO CELÍACOS',
+        url: 'https://www.instagram.com/valesingluten/',
+    },
+    emprendimiento12: {
+        img: emprendimiento.img12,
+        name: 'singlutenolivosbaires',
+        followers: '8972',
+        post: '144',
+        description: 'Gluten Free #tehacemosbien.📍Av. Maipú 1779 Vicente López🕛Lunes a miércoles 9:00 a 20hrs🕗jueves a sábado 9:00 a 00:00Hrs🕚domingo 9:00 a 13:00Hrs',
+        url: 'https://www.instagram.com/singlutenolivosbaires/',
+    },
+
+}
