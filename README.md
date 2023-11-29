@@ -3,7 +3,7 @@
 ### DEVS
 [Imperiales Jeremias](https://www.linkedin.com/in/jeremiasleonimperiales)
 
-[Ivan Venegas](https://www.linkedin.com/in/ivan-venegas-81225217)
+[Ivan Venegas](https://www.linkedin.com/in/ivan-venegas-812252171)
 
 [Gonzalo Delvalle](https://www.linkedin.com/in/gonzalodelvalle)
 
