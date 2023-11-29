@@ -1,8 +1,11 @@
-[En desarrollo]
-Devs:
-Imperiales Jeremias [https://www.linkedin.com/in/jeremiasleonimperiales]
-Ivan Venegas [https://www.linkedin.com/in/ivan-venegas-812252171?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-Gonzalo Delvalle [https://www.linkedin.com/in/gonzalodelvalle]
+# En desarrollo
+
+### DEVS
+[Imperiales Jeremias](https://www.linkedin.com/in/jeremiasleonimperiales)
+
+[Ivan Venegas](https://www.linkedin.com/in/ivan-venegas-81225217)
+
+[Gonzalo Delvalle](https://www.linkedin.com/in/gonzalodelvalle)
 
 # Proyecto Final Fundación Pescar - Santander - Documentación
 Este proyecto contiene el front end para usar la aplicación de Foodie utilizando
