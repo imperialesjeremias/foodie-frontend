@@ -51,4 +51,6 @@ dbUser ='usuario';
 dbPassword ='password';
 dbName ='tu_base_de_datos';
 ```
+# Figma 
+[Link al figma](https://www.figma.com/file/NzKMgBvCSwdg5XC5pAa2M7/Foodie?type=design&node-id=514-157&mode=design&t=EfCY07S6F31SFOWH-0)
 
